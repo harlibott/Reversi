@@ -1,5 +1,5 @@
 # Reversi
-## Harli Bott
+### Harli Bott
 
 Implements a non-GUI clone Reversi Game with simple AI implementation.
 This includes ASCII art, score keeping, and interactions from the command line. 
